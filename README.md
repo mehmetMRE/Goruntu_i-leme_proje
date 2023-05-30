@@ -1,1 +1,1 @@
-# Goruntu_i-leme_proje
+# Goruntu_isleme_proje
